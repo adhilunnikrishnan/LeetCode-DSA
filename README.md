@@ -64,6 +64,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0162-find-peak-element](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0162-find-peak-element](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
