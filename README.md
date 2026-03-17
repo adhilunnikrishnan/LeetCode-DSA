@@ -96,4 +96,20 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
