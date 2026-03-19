@@ -101,6 +101,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +115,12 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
