@@ -110,6 +110,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
