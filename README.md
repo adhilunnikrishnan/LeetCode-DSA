@@ -103,6 +103,7 @@ const twoSum = (nums, target) => {
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
