@@ -66,6 +66,7 @@ const twoSum = (nums, target) => {
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0198-house-robber](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ const twoSum = (nums, target) => {
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
+| [0198-house-robber](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
