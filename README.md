@@ -63,6 +63,7 @@ const twoSum = (nums, target) => {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -105,6 +106,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
