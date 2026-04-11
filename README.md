@@ -63,6 +63,7 @@ const twoSum = (nums, target) => {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -134,6 +135,7 @@ const twoSum = (nums, target) => {
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0072-edit-distance/) | Medium |
@@ -151,6 +153,7 @@ const twoSum = (nums, target) => {
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
