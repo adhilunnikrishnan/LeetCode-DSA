@@ -74,6 +74,7 @@ const twoSum = (nums, target) => {
 | [0189-rotate-array](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0274-h-index](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0274-h-index](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,8 @@ const twoSum = (nums, target) => {
 | [0045-jump-game-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/adhilunnikrishnan/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
